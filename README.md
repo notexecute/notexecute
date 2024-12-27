@@ -1,15 +1,15 @@
 
-<h1 align="center">Hello! I'm ssqaute 👋</h1>
+<h1 align="center">Hello! I'm notsn1pe 👋</h1>
 
 <p align="center">
  <img width="600" src="ssqaute-snake.svg" alt="snake"/>
 </p>
 
 ## My Telegram
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://ssqautee.t.me)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://notsn1pe.t.me)
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssqaute&repo=ssqaute.github.io&theme=dracula&bg_color=00000000&)](https://github.com/ssqaute/ssqaute.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notexecute&repo=notexecute.github.io&theme=dracula&bg_color=00000000&)](https://github.com/notexecute/notexecute.github.io)
 
 
 <details align="left">
@@ -31,10 +31,10 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parad1st&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notexecute&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Parad1st&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=notexecute&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/Parad1st" />
+   <img src="https://metrics.lecoq.io/notexecute" />
   </p>
 </details>
